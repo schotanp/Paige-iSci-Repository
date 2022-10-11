@@ -1,2 +1,2 @@
-# Paige-s-Repository
+# Paige-iSci-Repository
 My repository for iSci 3A12
